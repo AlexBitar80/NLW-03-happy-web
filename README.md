@@ -1,44 +1,70 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<img align="center" src="./src/images/Logo.png" alt="logo">
 
-In the project directory, you can run:
+<h1 style="color:#ffd666" align="center">
+  Happy
+</h1>
 
-### `yarn start`
+<H3 align="center">
+  Um projeto desenvolvido durante a terceira edição da Next_Level_Week(NLW) um evento gratuito promovido pela Rocketseat <br>
+  (Ainda está em desenvolvimento)
+</h3>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<br >
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<p align="center">
+  <a style="color:#ffd666" href="#computer-tecnologias-usadas-neste-projeto">tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a style="color:#ffd666" href="#rocket-como-rodar">Como usar</a>
+</p>
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/AlexBitar80/github-explorer-mobile.svg">
 
-### `yarn build`
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AlexBitar80/github-explorer-mobile.svg">
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/AlexBitar80/github-explorer-mobile.svg">
+  <a href="https://github.com/AlexBitar80/github-explorer-mobile/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AlexBitar80/github-explorer-mobile.svg">
+  </a>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+  <a href="https://github.com/lukemorales/react-rocketshoes/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/AlexBitar80/github-explorer-mobile.svg">
+  </a>
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p style="font-size: 16px; font-weight: 400">Em homenagem ao dia 12 de outubro (dia das criaças) este é um projeto para aproximar pessoas a criaças que estão em orfanatos e precisando de sua visita.</p>
 
-### `yarn eject`
+![Captura de tela de 2020-10-13 12-51-34](https://user-images.githubusercontent.com/56983783/95884755-dd86a400-0d52-11eb-9509-ec93325ea285.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![Captura de tela de 2020-10-13 12-50-28](https://user-images.githubusercontent.com/56983783/95887007-b4b3de00-0d55-11eb-80e8-aad8c29bd4b4.png)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## :computer: Tecnologias usadas neste projeto
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+O projeto está sendo desenvolvido utilizando as seguintes tecnologias:
 
-## Learn More
+-  [TypeScript](https://www.typescriptlang.org/)
+-  [ReactJS](https://pt-br.reactjs.org/)
+-  [React-Router-DOM](https://reactrouter.com/web/guides/quick-start)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## :rocket: Como rodar
+
+ Para clonar e rodar esse projeto você vai precisar do [Yarn](https://yarnpkg.com/) do [Npm](https://www.npmjs.com/get-npm) e do [Git](https://git-scm.com/) instalado na rua máquina
+
+```bash
+# Faça o clone deste repositório para qualquer pasta de sua preferencia
+$ git clone https://github.com/AlexBitar80/NLW-03-happy-web
+
+# Vá até essa pasta
+$ cd (pasta que foi clonada)
+
+# rode esses comandos para instalar as dependências
+$ yarn ou npm install
+
+# na raiz do projeto crie um arquivo chamado (.env) e nele coloque o seguinte comando
+REACT_APP_MAPBOX_TOKEN=(Seu token usada no MapBox que será usado para gerar o mapa)
+
+# use esses comandos para rodar o projeto em seu navegador
+$ yarn start ou npm start
