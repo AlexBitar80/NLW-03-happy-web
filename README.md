@@ -21,15 +21,15 @@
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/AlexBitar80/github-explorer-mobile.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AlexBitar80/github-explorer-mobile.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AlexBitar80/NLW-03-happy-web.svg">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/AlexBitar80/github-explorer-mobile.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/AlexBitar80/NLW-03-happy-web.svg">
   <a href="https://github.com/AlexBitar80/github-explorer-mobile/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AlexBitar80/github-explorer-mobile.svg">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AlexBitar80/NLW-03-happy-web.svg">
   </a>
 
-  <a href="https://github.com/lukemorales/react-rocketshoes/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/AlexBitar80/github-explorer-mobile.svg">
+  <a href="https://github.com/AlexBitar80/NLW-03-happy-web/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/AlexBitar80/NLW-03-happy-web.svg">
   </a>
 </p>
 
