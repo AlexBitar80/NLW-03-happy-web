@@ -1,5 +1,6 @@
-
-<img align="center" src="./src/images/Logo.png" alt="logo">
+<h1 align="center">
+  <img align="center" src="./src/images/Logo.png" alt="logo">
+</h1>
 
 <h1 style="color:#ffd666" align="center">
   Happy
