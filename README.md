@@ -19,12 +19,12 @@
 
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/AlexBitar80/github-explorer-mobile.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/AlexBitar80/NLW-03-happy-web.svg">
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AlexBitar80/NLW-03-happy-web.svg">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/AlexBitar80/NLW-03-happy-web.svg">
-  <a href="https://github.com/AlexBitar80/github-explorer-mobile/commits/master">
+  <a href="https://github.com/AlexBitar80/NLW-03-happy-web/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AlexBitar80/NLW-03-happy-web.svg">
   </a>
 
