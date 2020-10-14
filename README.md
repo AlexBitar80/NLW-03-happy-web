@@ -2,10 +2,6 @@
   <img align="center" src="./src/images/Logo.png" alt="logo">
 </h1>
 
-<h1 style="color:#ffd666" align="center">
-  Happy
-</h1>
-
 <H3 align="center">
   Um projeto desenvolvido durante a terceira edição da Next_Level_Week(NLW) um evento gratuito promovido pela Rocketseat <br>
   (Ainda está em desenvolvimento)
