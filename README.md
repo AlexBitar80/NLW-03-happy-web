@@ -4,7 +4,6 @@
 
 <H3 align="center">
   Um projeto desenvolvido durante a terceira edição da Next_Level_Week(NLW) um evento gratuito promovido pela Rocketseat <br>
-  (Ainda está em desenvolvimento)
 </h3>
 
 <br >
@@ -30,11 +29,33 @@
   </a>
 </p>
 
-<p style="font-size: 16px; font-weight: 400">Em homenagem ao dia 12 de outubro (dia das criaças) este é um projeto para aproximar pessoas a criaças que estão em orfanatos e precisando de sua visita.</p>
+
+<h3 style="font-size: 16px; font-weight: 400">Em homenagem ao dia 12 de outubro (dia das criaças) este é um projeto para aproximar pessoas a criaças que estão em orfanatos e precisando de sua visita.</h3>
+
+<br>
+<br>
+
+<p align="center" style="font-size: 20px; font-weight: 800">Tela inicial</p>
 
 ![Captura de tela de 2020-10-13 12-51-34](https://user-images.githubusercontent.com/56983783/95884755-dd86a400-0d52-11eb-9509-ec93325ea285.png)
 
-![Captura de tela de 2020-10-13 12-50-28](https://user-images.githubusercontent.com/56983783/95887007-b4b3de00-0d55-11eb-80e8-aad8c29bd4b4.png)
+<p align="center" style="font-size: 20px; font-weight: 800">Vizualizar orfanatos próximos</p>
+
+![Captura de tela de 2020-10-17 00-07-17](https://user-images.githubusercontent.com/56983783/96327089-ca9ef880-100c-11eb-8dcf-55ac088f03d2.png)
+
+<p align="center" style="font-size: 20px; font-weight: 800">Novo cadastro de orfanato</p>
+
+![Captura de tela de 2020-10-16 23-45-36](https://user-images.githubusercontent.com/56983783/96326774-ece34700-1009-11eb-9dbf-4e5ead64ebf9.png)
+
+![Captura de tela de 2020-10-16 23-45-43](https://user-images.githubusercontent.com/56983783/96326793-100df680-100a-11eb-97b0-cdedba1310f2.png)
+
+![Captura de tela de 2020-10-16 23-45-48](https://user-images.githubusercontent.com/56983783/96326813-5d8a6380-100a-11eb-898d-f8b1184baf1e.png)
+
+<p align="center" style="font-size: 20px; font-weight: 800">Tela de vizualização de orfanato</p>
+
+![Captura de tela de 2020-10-16 23-43-27](https://user-images.githubusercontent.com/56983783/96326801-316ee280-100a-11eb-9dd2-9ad62cea7831.png)
+
+![Captura de tela de 2020-10-16 23-43-49](https://user-images.githubusercontent.com/56983783/96326810-4481b280-100a-11eb-9650-98848a7d582f.png)
 
 
 ## :computer: Tecnologias usadas neste projeto
@@ -43,6 +64,10 @@ O projeto está sendo desenvolvido utilizando as seguintes tecnologias:
 
 -  [TypeScript](https://www.typescriptlang.org/)
 -  [ReactJS](https://pt-br.reactjs.org/)
+-  [React-Leaflet](https://react-leaflet.js.org/)
+-  [Axios](https://github.com/axios/axios)
+-  [Eslint](https://eslint.org/)
+-  [Prettier](https://prettier.io/)
 -  [React-Router-DOM](https://reactrouter.com/web/guides/quick-start)
 
 
