@@ -29,6 +29,17 @@
     "@typescript-eslint"
   ],
   "rules": {
+    "no-alert": "off",
+    "no-shadow": "off",
+    "eslint-disable-next-line": "off",
+    "@typescript-eslint/no-unused-vars": "off",
+    "@typescript-eslint/no-explicit-any": "off",
+    "eslint/no-unused-vars": "off",
+    "camelcase": "off",
+    "react/button-has-type": "off",
+    "react/jsx-one-expression-per-line": "off",
+    "react/jsx-indent": "off",
+    "jsx-a11y/label-has-associated-control": "off",
     "@typescript-eslint/explicit-module-boundary-types": "off",
     "no-use-before-define":"off",
     "prettier/prettier": "error",
@@ -40,7 +51,7 @@
         "tsx": "never"
       }
     ],
-    "react-hooks/rules-of-hooks": "error",
+    "react-hooks/rules-of-hooks": "off",
     "react-hooks/exhaustive-deps": "warn",
     "react/jsx-filename-extension": [
       1,
