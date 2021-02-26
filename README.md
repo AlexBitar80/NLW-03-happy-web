@@ -73,7 +73,7 @@ O projeto está sendo desenvolvido utilizando as seguintes tecnologias:
 
 ## :rocket: Como rodar
 
- Para clonar e rodar esse projeto você vai precisar do [Yarn](https://yarnpkg.com/) do [Npm](https://www.npmjs.com/get-npm) e do [Git](https://git-scm.com/) instalado na rua máquina
+ Para clonar e rodar esse projeto você vai precisar do [Yarn](https://yarnpkg.com/) do [Npm](https://www.npmjs.com/get-npm) e do [Git](https://git-scm.com/) instalado na sua máquina
 
 ```bash
 # Faça o clone deste repositório para qualquer pasta de sua preferencia
